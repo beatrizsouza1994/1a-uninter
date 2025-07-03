@@ -1,0 +1,31 @@
+body {background-color: #f7f2e0a6;}
+
+h1 {color: #1b7a23; background-color: #1b7a2331; text-align: center; font-size: 2.5em;}
+
+p {color: #8a6d30; font-size: 1.1em; text-align: justify;}
+.textoLista {font-size: 1em; margin-bottom: 6px; font-weight: bold;}
+.link {font-size: 1em; text-align: center;}
+.dica {text-decoration-line: underline; font-weight: bold;}
+
+button {margin-left: 255px; background-color: #747a1b23; color:#747a1bbb; border-radius: 8px; border: 1px solid #747a1bbb;}
+
+.containerGeral {display: flex; align-items: flex-start; gap: 40px; padding: 20px;}
+.listaTabela {display: flex; flex-direction: column;}
+.imagemLink {display: flex; flex-direction: column; align-items: center; text-align: center;}
+
+ul {display: flex; flex-direction: column; align-items: center; color: #8a6d30; font-size: 1em; margin-bottom: 6px;}
+ul li {border-bottom: 1px solid #747a1bbb; margin-bottom: 6px; background-color: #1b7a2321; display: block; width: fit-content; padding: 4px 8px; border-radius: 4px;}
+
+table {color: #8a6d30; font-size: 1em; text-align: center; margin-left: 45px;}
+caption {font-weight: bold;}
+tr {background-color: #747a1b42;}
+td {border-bottom: 1px solid #1b7a23;}
+
+.bandeiraEUA {border-radius: 8px; width: 50px;}
+.bandeiraJapao {border-radius: 8px; width: 50px;}
+.bandeiraItalia {border-radius: 8px; width: 50px;}
+
+.filmeFavorito {border-style: solid; border-color: #1b7a234f; border-radius: 8px; width: 350px;}
+
+a {color:#1b7a23a9; font-size: 1em; font-weight: bold;}
+a:hover {color:#8a6d30;}
